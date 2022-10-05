@@ -1,3 +1,7 @@
+//Topic : Method
+//Description : Use of Method 
+
+
 public class method {
     static int num(int x,int y){
         int z;

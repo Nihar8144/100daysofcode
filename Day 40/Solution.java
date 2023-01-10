@@ -1,3 +1,13 @@
+/* Sample Input
+    42
+    100
+    125
+   Sample Output
+    42
+    100
+    125
+*/
+
 import java.util.*;
 
 public class Solution {

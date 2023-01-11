@@ -1,3 +1,8 @@
+/* Sample Input : 3
+   Sample Output : Weird
+   Sample Input 1 : 24
+   Sample Output : Not Weird
+*/
 import java.io.*;
 import java.math.*;
 import java.security.*;
